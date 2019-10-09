@@ -1,6 +1,8 @@
 MT7 Trader Node.js Client
 -
 
+### [API Reference](https://docs.google.com/document/d/1v_k5KBfiMauUYOQ8jASigCYqyd_HL-6ZX7ns-ZUmHfU/edit?usp=sharing)
+
 ## Install
 ```bash
 git clone https://github.com/MobiusSoftLtd/mobius-trader-client-js.git
